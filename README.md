@@ -8,9 +8,9 @@ Spending sometime with the topic of cryptography, and writing what I'm learning 
 
 example,
 
-  from psypy.ciphers.caesar import encrypt
+    from psypy.ciphers.caesar import encrypt
   
-  print encrypt("hello there!")
+    print encrypt("hello there!")
   
 ## layout ##
 
