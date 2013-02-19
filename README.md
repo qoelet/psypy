@@ -16,3 +16,13 @@ example,
 
 Right now as I read about any ciphers, they'll be added to the ciphers folder. Some misc scripts can be found in the tools folder.
 
+## resources ##
+
+### predicate encryption ###
+
+	+ Ben Agre's "[Cool New Crypto][1]" talk from Shmoocon 2012 (video)
+
+	+ [PyPEBEL][2] 
+
+[1]:http://www.shmoocon.org/2012/videos/Agre-CoolNewCrypto.m4v
+[2]:https://github.com/jfdm/pyPEBEL
